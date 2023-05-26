@@ -1,6 +1,6 @@
 ## PAFR
 The official repo of the TGRS 2022 paper, Progressive Attention-Based Feature Recovery With Scribble Supervision for Saliency Detection in Optical Remote Sensing Image.
-<a href="https://doi.org/10.1109/TGRS.2022.3208618"><strong> TGRS</strong></a>
+<a href="https://doi.org/10.1109/TGRS.2022.3208618"><strong> IEEE TGRS 2022</strong></a>
 ## Results
 RSI-SOD [BaiduYunPan(g316)](https://pan.baidu.com/s/12_OK6QOlhMcslO46wH367Q).
 ## Trained Model
